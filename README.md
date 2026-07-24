@@ -1,6 +1,6 @@
 <div align="center">
 
-# Saif Online Shopping UI
+# Muqadas Online Shopping UI
 
 ### A modern responsive e-commerce interface built with HTML and CSS
 
@@ -93,39 +93,6 @@ SaifOnlineWeb/
 └── images/              # Optional local assets
 ```
 
-The current interface uses externally hosted demonstration images. They can be replaced with local files inside the `images` folder.
-
-Example:
-
-```html
-<img src="images/product-shirt.jpg" alt="Cream linen shirt">
-```
-
----
-
-## Local Use
-
-1. Download or clone the repository.
-2. Keep `index.html` and `style.css` in the same folder.
-3. Open `index.html` in a modern browser.
-
-Clone command:
-
-```bash
-git clone https://github.com/SaifWiyar/SaifOnlineWeb.git
-```
-
----
-
-## Publish With GitHub Pages
-
-1. Open the repository on GitHub.
-2. Go to **Settings**.
-3. Open **Pages** from the left sidebar.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select the `main` branch and `/root` folder.
-6. Click **Save**.
-7. Wait a few minutes for the live website URL.
 
 ---
 
